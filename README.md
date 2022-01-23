@@ -1,2 +1,2 @@
 # learning-flutter
- Tập tành code app :>
+ Mình tự học code Mobile App bằng ngôn ngữ Flutter
